@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Mini%20projects/mlflow/mlruns/0/8bd0678331e54cf6ab6a663d61f5ffc0/artifacts
+end_time: 1757511371075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bd0678331e54cf6ab6a663d61f5ffc0
+run_name: xgb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511366120
+status: 3
+tags: []
+user_id: Study

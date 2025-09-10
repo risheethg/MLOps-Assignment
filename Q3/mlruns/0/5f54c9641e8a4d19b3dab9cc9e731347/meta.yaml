@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Mini%20projects/mlflow/mlruns/0/5f54c9641e8a4d19b3dab9cc9e731347/artifacts
+end_time: 1757511278614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f54c9641e8a4d19b3dab9cc9e731347
+run_name: linear
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511268330
+status: 3
+tags: []
+user_id: Study
